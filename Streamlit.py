@@ -8,10 +8,10 @@ st.markdown(
 )
 
 audios = {
-    'Inglés': "/Users/luciaalonsoarias/Downloads/audios/audio_en.mp3",
-    'Francés': "/Users/luciaalonsoarias/Downloads/audios/audio_fr.mp3",
-    'Alemán': "/Users/luciaalonsoarias/Downloads/audios/audio_de.mp3",
-    'Español': "/Users/luciaalonsoarias/Downloads/audios/audio_es.mp3"
+    'Inglés': "audio_en.mp3",
+    'Francés': "audio_fr.mp3",
+    'Alemán': "audio_de.mp3",
+    'Español': "audio_es.mp3"
 }
 
 # Textos para la etiqueta del botón de radio según el idioma
